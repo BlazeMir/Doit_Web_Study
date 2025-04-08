@@ -24,7 +24,7 @@
 | 4/7  | 2장: VS Code 설치, Live Server 설정, 첫 HTML 실습 | `Week1_html_css/02-intro.html` |
 | 4/7  | 3장: 텍스트 태그 실습 | `week1-html-css/03a-text_tags.html` |
 | 4/7  | 3장: 시맨틱 태그 실습 | `week1-html-css/03b-semantic_tags.html` |
-
+| 4/8  | 4장: 리스트 태그 실습 | `week1-html-css/04-lists.html` |
 ---
 
 ## 📁폴더 구조
@@ -67,7 +67,7 @@ doit-web-study/
 | 4/7  | 2장: VS Code 설치, Live Server 설정, 첫 HTML 실습 | `Week1_html_css/02-intro.html` |
 | 4/7  | 3장: 텍스트 태그 실습 | `week1-html-css/03-text-tags.html` |
 | 4/7  | 3장: 시맨틱 태그 실습 | `week1-html-css/03b-semantic-tags.html` |
-
+| 4/8  | 4장: 리스트 태그 실습 | `week1-html-css/04-lists.html` |
 ---
 
 ## 📁폴더 구조
